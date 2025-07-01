@@ -4,6 +4,12 @@ A simple **Windows Forms (C#)** application that allows users to manage a person
 
 ---
 
+## Images
+
+![Image](Directory.png)
+
+---
+
 ## 🧩 Features
 
 - ➕ Add new contacts
