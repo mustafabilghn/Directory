@@ -18,7 +18,7 @@ namespace Rehber
             InitializeComponent();
         }
 
-        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-AOEQHQU;Initial Catalog=Rehber;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=LAPTOP-JQ02U7VO;Initial Catalog=Rehber;Integrated Security=True;");
         string fotografyolu;
 
         void listele()
